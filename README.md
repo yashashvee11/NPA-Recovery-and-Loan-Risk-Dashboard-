@@ -33,6 +33,7 @@ This project is a data visualization dashboard designed to analyze and monitor N
 
 ## 🛠️ Tools Used
 
+_ **Pandas**: For Data Cleaning and EDA
 - **Tableau**: For interactive visualizations and dashboard creation.
 - **Excel / CSV**: For preprocessing and cleaning raw borrower and loan data.
 
