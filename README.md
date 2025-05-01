@@ -1,6 +1,3 @@
-# NPA-Recovery-and-Loan-Risk-Dashboard-
-A Tableau dashboard project analyzing Non-Performing Assets (NPAs) using synthetic banking data. It visualizes overdue trends, write-offs, asset provisioning, risk profiles, and branch-wise recovery to support data-driven decision-making in loan management.
-
 # 📊 NPA Recovery and Loan Risk Dashboard
 
 This project is a data visualization dashboard designed to analyze and monitor Non-Performing Assets (NPAs) in the banking sector. Built using Tableau, the dashboard provides critical insights into loan defaults, recovery performance, high-risk borrowers, and asset quality across branches, loan types, and borrower segments.
